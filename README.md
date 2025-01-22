@@ -17,7 +17,9 @@ A prominent supplier of computer hardware and peripherals, operates across multi
 4. Dynamic visualizations and up-to-date data
 
 ## ER Diagram:
+![image alt](https://github.com/aafreenmo/Sales-Insights/blob/59e323fe7442c6097ef9bb28f4efcafbe1f2d339/Screenshot%20(10).png)
 
+## Power Bi Dashboard:
 
 
 
