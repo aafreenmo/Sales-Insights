@@ -22,7 +22,7 @@ A prominent supplier of computer hardware and peripherals, operates across multi
 ## Power Bi Dashboard:
 ![image alt](https://github.com/aafreenmo/Sales-Insights/blob/de75dcf988a5391a88d80d6d369e03500dc444e6/Images/Screenshot%20(9).png)
 ![image alt](https://github.com/aafreenmo/Sales-Insights/blob/3f5aa49064bce7297ebf3eb340158dd66060b3d8/Images/Screenshot%20(8).png)
-![image alt]()
+![image alt](https://github.com/aafreenmo/Sales-Insights/blob/675ecb9ce6a2f9907d61f0166c3c463331388789/Images/Screenshot%20(7).png)
 ![image alt]()
 
 
