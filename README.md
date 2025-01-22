@@ -25,5 +25,6 @@ A prominent supplier of computer hardware and peripherals, operates across multi
 ![image alt](https://github.com/aafreenmo/Sales-Insights/blob/675ecb9ce6a2f9907d61f0166c3c463331388789/Images/Screenshot%20(7).png)
 ![image alt](https://github.com/aafreenmo/Sales-Insights/blob/57757f41b4358807963bf408b9304af780ac33de/Images/Screenshot%20(6).png)
 
-
+## Contacts:
+[LinkenIn](linkedin.com/in/aafreen-moyal)
 
